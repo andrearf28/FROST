@@ -1,0 +1,40 @@
+# HTML output files from simulations
+*.html
+frost_detector_*.html
+
+# PNG output files from plots
+*.png
+comparison_*.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Interpolated data (optional - descomenta si no quieres subir archivos interpolados)
+# Data/interpolated/*.txt
