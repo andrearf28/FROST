@@ -1,3 +1,6 @@
+# Este mismo archivo no se sube
+.gitignore
+
 # HTML output files from simulations
 *.html
 frost_detector_*.html
@@ -35,6 +38,3 @@ venv.bak/
 # OS
 .DS_Store
 Thumbs.db
-
-# Interpolated data (optional - descomenta si no quieres subir archivos interpolados)
-# Data/interpolated/*.txt
