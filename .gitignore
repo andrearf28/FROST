@@ -1,4 +1,3 @@
-# Este mismo archivo no se suba
 .gitignore
 
 # HTML output files from simulations
@@ -8,6 +7,8 @@ frost_detector_*.html
 # PNG output files from plots
 *.png
 comparison_*.png
+
+*.txt
 
 # Python cache
 __pycache__/
